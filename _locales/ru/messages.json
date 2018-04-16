@@ -1,0 +1,14 @@
+{
+    "desc": {
+        "message": "Убирает блокировку Telegram в России"
+    },
+    "name": {
+        "message": "TelegramLIVE разблокировка"
+    },
+    "shortname": {
+        "message": "TelegramLIVE"
+    },
+    "title": {
+        "message": "TelegramLIVE разблокировка"
+    }
+}

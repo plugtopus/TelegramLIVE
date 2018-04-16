@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "Removes blocking of Telegram  in Russia"
+   },
+   "name": {
+      "message": "TelegramLIVE unblock"
+   },
+   "shortname": {
+      "message": "TelegramLIVE"
+   },
+   "title": {
+      "message": "TelegramLIVE unblock"
+   }
+}
